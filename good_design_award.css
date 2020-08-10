@@ -1,0 +1,176 @@
+:root {
+  --bg: #404040;
+  --fg: #ccc;
+}
+
+body {
+  color: var(--fg);
+  background-color: var(--bg);
+  padding: 16px;
+  font-family: 'Play', sans-serif;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 16px;
+}
+
+/* ---- section */
+
+section {
+  cursor: pointer;
+  margin-bottom: 32px;
+  padding: 20px;
+  background-color: var(--bg);
+  border-radius: 16px;
+  box-shadow: inset 20px 20px 60px #101010, inset -20px -20px 60px #707070;
+}
+
+section.collapse {
+  box-shadow: 20px 20px 60px #101010, -20px -20px 60px #707070;
+}
+
+section > div {
+  margin-top: 16px;
+}
+
+section.collapse > .cardcase {
+  display: none;
+}
+
+/* --- card */
+
+.cardcase {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card {
+  position: relative;
+  width: 92px;
+  height: 92px;
+  margin: 4px;
+  background-color: var(--fg);
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 2px;
+  box-shadow: 0px 0px 8px 4px transparent;
+}
+
+.card img {
+  width: 100%;
+}
+
+/* --- barchart */
+
+.barchart {
+  display: flex;
+}
+
+.barchart > div {
+  border-width: 0px;
+  border-top-width: 2px;
+  border-style: solid;
+}
+
+/* ---- common clear */
+
+@keyframes mfc {
+  0% {
+    border-color: #eee;
+    box-shadow: 0px 0px 8px 4px #eee;
+  }
+  99% {
+    border-color: #fff;
+    box-shadow: 0px 0px 8px 4px transparent;
+  }
+}
+
+@keyframes pfc {
+  0% {
+    border-color: #ff7;
+    box-shadow: 0px 0px 8px 4px #ff7;
+  }
+  99% {
+    border-color: #ffa;
+    box-shadow: 0px 0px 8px 4px transparent;
+  }
+}
+
+@keyframes gfc {
+  0% {
+    border-color: #7f7;
+    box-shadow: 0px 0px 8px 4px #7f7;
+  }
+  99% {
+    border-color: #afa;
+    box-shadow: 0px 0px 8px 4px transparent;
+  }
+}
+
+@keyframes fc {
+  0% {
+    border-color: #7ff;
+    box-shadow: 0px 0px 8px 4px #7ff;
+  }
+  99% {
+    border-color: #aff;
+    box-shadow: 0px 0px 8px 4px transparent;
+  }
+}
+
+.noplay {
+  opacity: 0.3;
+  border-color: var(--bg);
+}
+
+.noclear {
+  border-color: #777;
+}
+
+.clear {
+  border-color: #ff7;
+  box-shadow: 0px 0px 0px 0px #ff7;
+}
+
+.fc {
+  animation: 0.1s infinite fc;
+}
+
+.gfc {
+  animation: 0.1s infinite gfc;
+}
+
+.pfc {
+  animation: 0.1s infinite pfc;
+}
+
+.mfc {
+  animation: 0.1s infinite mfc;
+}
+
+.c:after {
+  content: " ";
+  display: inline-block;
+  position: absolute;
+  bottom: 4px;
+  right: 4px;
+  height: 12px;
+  width: 12px;
+  border-radius: 6px;
+  background-color: #f4f;
+  /* box-shadow: 0px 0px 4px 2px #f4f; */
+}
+
+.d:after {
+  content: " ";
+  display: inline-block;
+  position: absolute;
+  bottom: 4px;
+  right: 4px;
+  height: 12px;
+  width: 12px;
+  border-radius: 6px;
+  background-color: #f33;
+  /* box-shadow: 0px 0px 4px 2px #f33; */
+}
