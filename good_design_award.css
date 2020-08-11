@@ -149,7 +149,7 @@ section.collapse > .cardcase {
   animation: 0.1s infinite mfc;
 }
 
-.c:after {
+.csp:after, .cdp:after {
   content: " ";
   display: inline-block;
   position: absolute;
@@ -162,7 +162,7 @@ section.collapse > .cardcase {
   /* box-shadow: 0px 0px 4px 2px #f4f; */
 }
 
-.d:after {
+.dsp:after, .ddp:after {
   content: " ";
   display: inline-block;
   position: absolute;
