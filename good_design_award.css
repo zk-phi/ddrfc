@@ -160,7 +160,7 @@ section.collapse > .cardcase {
   width: 12px;
   border-radius: 6px;
   background-color: #f4f;
-  /* box-shadow: 0px 0px 4px 2px #f4f; */
+  box-shadow: 1px 1px 2px #000;
 }
 
 .dsp:after, .ddp:after {
@@ -173,5 +173,5 @@ section.collapse > .cardcase {
   width: 12px;
   border-radius: 6px;
   background-color: #f33;
-  /* box-shadow: 0px 0px 4px 2px #f33; */
+  box-shadow: 1px 1px 2px #000;
 }
