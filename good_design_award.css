@@ -121,7 +121,7 @@ section.collapse > .cardcase {
 }
 
 .noplay {
-  opacity: 0.3;
+  opacity: 0.2;
   border-color: var(--bg);
 }
 
