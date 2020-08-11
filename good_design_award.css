@@ -1,33 +1,33 @@
 :root {
-  --bg: #404040;
-  --fg: #ccc;
+  --bg: #202030;
+  --fg: #eee;
 }
 
 body {
   color: var(--fg);
   background-color: var(--bg);
-  padding: 16px;
   font-family: 'Play', sans-serif;
 }
 
-h1 {
+nav {
   text-align: center;
-  margin-bottom: 16px;
+  padding: 16px 20px;
+  box-shadow: 20px 20px 60px #000010;
 }
 
 /* ---- section */
 
 section {
   cursor: pointer;
-  margin-bottom: 32px;
+  margin: 32px 16px 0px;
   padding: 20px;
   background-color: var(--bg);
   border-radius: 16px;
-  box-shadow: inset 20px 20px 60px #101010, inset -20px -20px 60px #707070;
+  box-shadow: inset 10px 10px 20px #101018, inset -10px -10px 20px #303048;
 }
 
 section.collapse {
-  box-shadow: 20px 20px 60px #101010, -20px -20px 60px #707070;
+  box-shadow: 10px 10px 20px #101018, -10px -10px 20px #303048;
 }
 
 section > div {
