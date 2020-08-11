@@ -55,7 +55,7 @@ section.collapse > .cardcase {
   border-width: 2px;
   border-style: solid;
   border-radius: 2px;
-  box-shadow: 0px 0px 8px 4px transparent;
+  box-shadow: 0px 0px 4px 2px transparent;
 }
 
 .card img {
@@ -79,44 +79,44 @@ section.collapse > .cardcase {
 @keyframes mfc {
   0% {
     border-color: #eee;
-    box-shadow: 0px 0px 8px 4px #eee;
+    box-shadow: 0px 0px 4px 2px #eee;
   }
   99% {
     border-color: #fff;
-    box-shadow: 0px 0px 8px 4px transparent;
+    box-shadow: 0px 0px 4px 2px transparent;
   }
 }
 
 @keyframes pfc {
   0% {
     border-color: #ff7;
-    box-shadow: 0px 0px 8px 4px #ff7;
+    box-shadow: 0px 0px 4px 2px #ff7;
   }
   99% {
     border-color: #ffa;
-    box-shadow: 0px 0px 8px 4px transparent;
+    box-shadow: 0px 0px 4px 2px transparent;
   }
 }
 
 @keyframes gfc {
   0% {
     border-color: #7f7;
-    box-shadow: 0px 0px 8px 4px #7f7;
+    box-shadow: 0px 0px 4px 2px #7f7;
   }
   99% {
     border-color: #afa;
-    box-shadow: 0px 0px 8px 4px transparent;
+    box-shadow: 0px 0px 4px 2px transparent;
   }
 }
 
 @keyframes fc {
   0% {
     border-color: #7ff;
-    box-shadow: 0px 0px 8px 4px #7ff;
+    box-shadow: 0px 0px 4px 2px #7ff;
   }
   99% {
     border-color: #aff;
-    box-shadow: 0px 0px 8px 4px transparent;
+    box-shadow: 0px 0px 4px 2px transparent;
   }
 }
 
