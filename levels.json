@@ -1,0 +1,732 @@
+[
+    {
+        "level": 19,
+        "charts": [
+
+            {
+                "difficulty": "csp",
+                "title": "EGOISM 440",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=9i0q91lPPiO61b9P891O1i86iOP1I08O",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "ENDYMION",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=PO9Pl1q896bDDl89qQb98D80DQoPio1I",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "Lachryma <Re:Queen'M>",
+                "img": "",
+                "status": "fail"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "MAX 360",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=1Dl19idl0i0qiqidbDIIbQddiP6o11PP",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "Over The &ldquo;Period&rdquo;",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=6bid6d9qPQ80DOqiidQQ891o6Od8801l",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "PARANOiA Revolution",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=606b9d6OiliId69bO9Odi6qq8o8Qd0dq",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "Valkyrie dimension",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=186dd6DQq891Ib9Ilq8Qbo8lIqb0Qoll",
+                "status": "clear"
+            }
+        ]
+    },
+
+    {
+        "level": 18,
+        "charts": [
+            {
+                "difficulty": "csp",
+                "title": "シュレーディンガーの猫",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=DIiQbd09D0PoIiPl9iP1q8qldOOqol8i",
+                "status": "noplay"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "嘆きの樹",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=Pi69o0idP1obO9QDqIDbPdqlb90q8Dq8",
+                "status": "noplay"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "バンブーソードガール",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=160Oo1q8DolI6068lQi66OQbQ9Q8ODQI",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "び",
+                "img": "",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "冥",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=iqiqod1l08DlDql98QOi10oibldd8b86",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "ACE FOR ACES",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=ld6P1lbb0bPO9doqbbPOoPb8qoDo8id0",
+                "status": "noplay"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "Air Heroes",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=6obQo6d0oQ6QoQql0I60b81IO8IOl1IO",
+                "status": "noplay"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "Anti-Matter",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=D89QP18016o01qoOi60I6Q19dlOQPbdo",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "Astrogazer",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=6QdIl8odooDQ0oOQ0IObQqo1lO986PP6",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "Blew My Mind",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=8IdlOq1qI8OO1PP88I6olPiI6IqqqIIO",
+                "status": "noplay"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "Come to Life",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=oIII9lI0q6i9Q0b18ldoI6o0PQ0qqD01",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "Cosy Catastrophe",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=9QIo1lbD1ldlqPO0iD68io69Pd8b01Do",
+                "status": "noplay"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "DEAD END ('GROOVE RADER' Special)",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=P98dl8qdoilqbPqIO86ood601o1696D8",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "EGOISM 440",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=9i0q91lPPiO61b9P891O1i86iOP1I08O",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "Elemental Creation",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=OiIOPd80d9PQQIbidO6ObioboO88OD9l",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "ENDYMION",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=PO9Pl1q896bDDl89qQb98D80DQoPio1I",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "Fascination 〜eternal love mix〜",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=8QbqP80q9PI8bbi0qOoiibOQD08OPdli",
+                "status": "noplay"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "Fascination MAXX",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=O6llIdODQD6oDQ6QiPQDOlob9i8l6qib",
+                "status": "noplay"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "First Time",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=9Di9ODOOl8PDQiO1O6o8lD16QlI609ob",
+                "status": "noplay"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "Go For The Top",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=11dQb0qIdbO098ObDqOQQ8Ili9Il0lOd",
+                "status": "noplay"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "Healing-D-Vision",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=109P1iO9i6q1q0bdQobiodQDoD619dqd",
+                "status": "noplay"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "HyperTwist",
+                "img": "",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "Lachryma <Re:Queen'M>",
+                "img": "",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "MAXX UNLIMITED (X-Special)",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=lObPDQDI08DoodDq1061IP1qbQ1qQQbl",
+                "status": "noplay"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "MAX 360",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=1Dl19idl0i0qiqidbDIIbQddiP6o11PP",
+                "status": "fc"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "MAX.(period)",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=89I0ooQbbI1I6O1iq861PQQqIo9iO86b",
+                "status": "noplay"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "Neutrino",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=lO91bIQ0Q990PqPbPIq88b9I9PI6ID0Q",
+                "status": "noplay"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "New Century",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=o068b00O6QD8lo9O1i9PbQlqO6IQOidD",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "New Decade",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=o0l1Qioq1i9iQl6b9q6il0iqi1b1OQ9b",
+                "status": "noplay"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "NGO",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=iP6qIl6lD809098io0OiPP08Ii18I6OI",
+                "status": "noplay"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "Over The &ldquo;Period&rdquo;",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=6bid6d9qPQ80DOqiidQQ891o6Od8801l",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "PARANOiA 〜HADES〜",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=io1d1Dq80Di08O1Pb9bQ8DoP9d9Ooi90",
+                "status": "noplay"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "PARANOiA Revolution",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=606b9d6OiliId69bO9Odi6qq8o8Qd0dq",
+                "status": "fail"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "Pluto Relinquish",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=0IldoDlDQql99DqQo0Qq9ioPIiiPoIoi",
+                "status": "noplay"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "Pluto The First",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=PIO8dod8P9OOP1bi0D1POIi6OdOdQDql",
+                "status": "noplay"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "POSSESSION",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=q6di1DQbi88i9QlPol1iIPbb8lP1qP1b",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "POSSESSION (20th Anniversary Mix)",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=19q96Q8l1oqbD0OQq6biDbO6O1oqqb6O",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "Prey",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=i916bDibPI9l869o9IIQb8DbO9bPDi6q",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "Prey",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=i916bDibPI9l869o9IIQb8DbO9bPDi6q",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "Tohoku EVOLVED",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=OddDoQ6dqi0QdQDDOO6qlO08d8bPbli1",
+                "status": "noplay"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "Trigger",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=OPOIPIi1OioQ98qbO100q6QiDP8dIDq6",
+                "status": "noplay"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "Triple Journey -TAG EDITION-",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=lDOPd60Q9obl6D0q8qqdQi9lioblD1db",
+                "status": "noplay"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "TRIP MACHINE EVOLUTION",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=8O6b1D9PDO0ll1IO9d1ODDPPo0QPQbob",
+                "status": "noplay"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "Valkyrie dimension",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=186dd6DQq891Ib9Ilq8Qbo8lIqb0Qoll",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "888",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=id9oObq9P6Q6Pq6lQPqI88OP1DD8D0O1",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "IX",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=00obPO6oPIPOoD9qb0dIl6q6D8P6o9bI",
+                "status": "noplay"
+            }
+        ]
+    },
+
+    {
+        "level": 17,
+        "charts": [
+            {
+                "difficulty": "csp",
+                "title": "腐れ外道とチョコレゐト",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=QoDQ0oq08QqiI0DQ8dIPb10qIi6d6i89",
+                "status": "fc"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "恋する☆宇宙戦争っ!!",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=Q9Q088PPd0bPi9QQ8iil1lQqPdiQP69D",
+                "status": "ex"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "最小三倍完全数",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=O9qDQOQO8dDDIiO9dPP0Pb8qQo9l89D9",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "タイガーランペイジ",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=Q9l0i6DPO08obldq101ldDioiqdIDqlq",
+                "status": "gfc"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "東京神話",
+                "img": "",
+                "status": "ex"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "ドーパミン",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=QoODOoqDli0bOoqqDo8ODo1lDI9llblo",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "び",
+                "img": "",
+                "status": "fc"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "ホーンテッド★メイドランチ",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=I0qiD6Ob86D1oQOib81lID6Dll8iOOOP",
+                "status": "fc"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "未完成ノ蒸氣驅動乙女 (DDR Edition)",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=96d9qiDD8l09DQq6O1DO6O6I1IdP8q0D",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "&AElig;THER",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=l6d0ibbliQPQDdb1lP18D9qbPDi1698b",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "Anti-Matter",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=D89QP18016o01qoOi60I6Q19dlOQPbdo",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "Avenger",
+                "img": "",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "Be a Hero!",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=dOb880lOloIIod00PQ1iQOQqlOOQ0Ql0",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "Catch Our Fire!",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=P6id8qqolbP0oqO060OOqbl60DI9iQoQ",
+                "status": "noplay"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "CHAOS Terror-Tech Mix",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=b16OP1o9qb6bQd66qOl98iq0boiQP919",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "&Delta;MAX",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=QQldo10ObPPQPlliODiDIIl0Q1oPoo61",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "&Delta;MAX",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=QQldo10ObPPQPlliODiDIIl0Q1oPoo61",
+                "status": "noplay"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "Elemental Creation",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=OiIOPd80d9PQQIbidO6ObioboO88OD9l",
+                "status": "fc"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "Emera",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=OdlOPPblPlbbldOdqblI06Dd1q00PPo9",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "Fascination MAXX",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=O6llIdODQD6oDQ6QiPQDOlob9i8l6qib",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "Idola",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=1I9ODbQ81qi1006QoQI6d6dbd9iiPD9O",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "JOMANDA",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=dDQqqIQlDQ9POd90OPl9Dd1i106odDl0",
+                "status": "noplay"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "London EVOLVED ver.A",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=D6IQ1O1D00D1o8IQq0O9qqIibqDiiO0i",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "London EVOLVED ver.B",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=OlDo09P8l0d6d80i8qD0qQddbi0QQD8b",
+                "status": "noplay"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "London EVOLVED ver.C",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=09looidO89Q9DiDdqQiDPlIQDoiobobQ",
+                "status": "noplay"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "Magnetic",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=18l0blb188Oqqi8I68o8oq91Qbq86QDi",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "MAX 300 (X-Special)",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=6P18lOliIQqIO6Di0PP8iDlDQ01b0o0q",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "New Century",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=o068b00O6QD8lo9O1i9PbQlqO6IQOidD",
+                "status": "fc"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "New Decade",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=o0l1Qioq1i9iQl6b9q6il0iqi1b1OQ9b",
+                "status": "fc"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "New Generation",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=6i99bQI11qD818DDdq6qb0Dql880lP8l",
+                "status": "noplay"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "ORCA",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=99OQb9b0IQ98P6IQdPOiqi8q16o16iqP",
+                "status": "fail"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "ΩVERSOUL",
+                "img": "",
+                "status": "ex"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "PARANOiA (kskst mix)",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=dQPPd10QO9d8IiOiIi8iDD1Qdq8lQli0",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "Pluto Relinquish",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=0IldoDlDQql99DqQo0Qq9ioPIiiPoIoi",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "Pluto The First",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=PIO8dod8P9OOP1bi0D1POIi6OdOdQDql",
+                "status": "noplay"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "POSSESSION",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=q6di1DQbi88i9QlPol1iIPbb8lP1qP1b",
+                "status": "fc"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "PRANA＋REVOLUTIONARY ADDICT (U1 DJ Mix)",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=D8q1ObblD0i6liQ0OD6OdD0qIo9oPldb",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "Puberty Dysthymia",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=99q8i8bPldDbio919ob0DPi0bqdIoobi",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "Pursuer",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=bl90QbiqoOlDI6iQQQdo0Iol6PIdQblP",
+                "status": "noplay"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "Reach The Sky, Without you",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=POq8OPlOO9199i11Od0P00801Qo01DQo",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "RЁVOLUTIФN",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=IPq8dO1lD8qidDlI0ObboI9IIldQO6IQ",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "RISING FIRE HAWK",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=60P9IPOdi1OIbD61D8i0D9ODoq6QOIPO",
+                "status": "ex"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "SABER WING (Akira Ishihara Headshot mix)",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=PIP60POo0dDQlIiqO9bIQ1oddQD8P9Il",
+                "status": "gfc"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "Spanish Snowy Dance",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=bo6PqbbPQ6D096OIP6dDPbPPiDi88609",
+                "status": "noplay"
+            },
+
+            {
+                "difficulty": "csp",
+                "title": "The legend of MAXX (X-Special)",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=li608di8PolqqIP808iddOqi11qDDq0Q",
+                "status": "noplay"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "Tohoku EVOLVED",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=OddDoQ6dqi0QdQDDOO6qlO08d8bPbli1",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "Triple Counter",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=d810q0I8q6d0l1POlIO6d66bOPb96dql",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "voltississimo",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=6DQ9D9oi66I8ODi8o0dPdOD1ibbIqIdI",
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "IX",
+                "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=00obPO6oPIPOoD9qb0dIl6q6D8P6o9bI",
+                "status": "clear"
+            }
+        ]
+    }
+
+]

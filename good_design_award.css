@@ -125,13 +125,16 @@ section.collapse > .cardcase {
   border-color: var(--bg);
 }
 
-.noclear {
+.fail {
   border-color: #777;
 }
 
 .clear {
   border-color: #ff7;
-  box-shadow: 0px 0px 0px 0px #ff7;
+}
+
+.ex {
+  border-color: #f77;
 }
 
 .fc {
