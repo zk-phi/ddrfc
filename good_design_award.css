@@ -12,7 +12,7 @@ body {
 nav {
   text-align: center;
   padding: 16px 20px;
-  box-shadow: 20px 20px 60px #000010;
+  box-shadow: 5px 5px 10px #101018;
 }
 
 /* ---- section */
@@ -23,11 +23,11 @@ section {
   padding: 20px;
   background-color: var(--bg);
   border-radius: 16px;
-  box-shadow: inset 10px 10px 20px #101018, inset -10px -10px 20px #303048;
+  box-shadow: inset 5px 5px 10px #101018, inset -5px -5px 10px #303048;
 }
 
 section.collapse {
-  box-shadow: 10px 10px 20px #101018, -10px -10px 20px #303048;
+  box-shadow: 5px 5px 10px #101018, -5px -5px 10px #303048;
 }
 
 section > div {
