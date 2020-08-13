@@ -51,7 +51,6 @@ section.collapse > .cardcase {
   width: 92px;
   height: 92px;
   margin: 4px;
-  background-color: var(--fg);
   border-width: 2px;
   border-style: solid;
   border-radius: 2px;
@@ -120,9 +119,12 @@ section.collapse > .cardcase {
   }
 }
 
-.noplay {
+.noplay img {
   opacity: 0.2;
-  border-color: var(--bg);
+}
+
+.noplay {
+  border-color: #000;
 }
 
 .fail {
