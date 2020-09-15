@@ -21,7 +21,7 @@
                 "difficulty": "csp",
                 "title": "Lachryma <Re:Queen'M>",
                 "img": "",
-                "status": "fail"
+                "status": "clear"
             },
 
             {
@@ -395,7 +395,7 @@
                 "difficulty": "csp",
                 "title": "恋する☆宇宙戦争っ!!",
                 "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=Q9Q088PPd0bPi9QQ8iil1lQqPdiQP69D",
-                "status": "ex"
+                "status": "clear"
             },
 
             {
@@ -416,7 +416,7 @@
                 "difficulty": "esp",
                 "title": "東京神話",
                 "img": "",
-                "status": "ex"
+                "status": "clear"
             },
 
             {
@@ -449,6 +449,13 @@
 
             {
                 "difficulty": "esp",
+                "title": "ランカーキラーガール",
+                "img": "",
+                "status": "noplay"
+            },
+
+            {
+                "difficulty": "esp",
                 "title": "&AElig;THER",
                 "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=l6d0ibbliQPQDdb1lP18D9qbPDi1698b",
                 "status": "clear"
@@ -465,7 +472,7 @@
                 "difficulty": "esp",
                 "title": "Avenger",
                 "img": "",
-                "status": "clear"
+                "status": "fc"
             },
 
             {
@@ -505,6 +512,13 @@
 
             {
                 "difficulty": "esp",
+                "title": "DIGITALIZER",
+                "img": "",
+                "status": "noplay"
+            },
+
+            {
+                "difficulty": "esp",
                 "title": "Elemental Creation",
                 "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=OiIOPd80d9PQQIbidO6ObioboO88OD9l",
                 "status": "fc"
@@ -522,6 +536,13 @@
                 "title": "Fascination MAXX",
                 "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=O6llIdODQD6oDQ6QiPQDOlob9i8l6qib",
                 "status": "clear"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "Glitch Angel",
+                "img": "",
+                "status": "gfc"
             },
 
             {
@@ -588,6 +609,13 @@
             },
 
             {
+                "difficulty": "esp",
+                "title": "New Era",
+                "img": "",
+                "status": "fc"
+            },
+
+            {
                 "difficulty": "csp",
                 "title": "New Generation",
                 "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=6i99bQI11qD818DDdq6qb0Dql880lP8l",
@@ -605,7 +633,7 @@
                 "difficulty": "csp",
                 "title": "ΩVERSOUL",
                 "img": "",
-                "status": "ex"
+                "status": "clear"
             },
 
             {
@@ -675,7 +703,7 @@
                 "difficulty": "csp",
                 "title": "RISING FIRE HAWK",
                 "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=60P9IPOdi1OIbD61D8i0D9ODoq6QOIPO",
-                "status": "ex"
+                "status": "clear"
             },
 
             {
@@ -689,6 +717,13 @@
                 "difficulty": "csp",
                 "title": "Spanish Snowy Dance",
                 "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=bo6PqbbPQ6D096OIP6dDPbPPiDi88609",
+                "status": "noplay"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "The History of the Future",
+                "img": "",
                 "status": "noplay"
             },
 
@@ -758,7 +793,7 @@
                 "difficulty": "csp",
                 "title": "打打打打打打打打打打",
                 "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=DDDiQOd1IQQ6QIIq09PDqdQdDIll6bQI",
-                "status": "ex"
+                "status": "clear"
             },
 
             {
@@ -772,7 +807,7 @@
                 "difficulty": "csp",
                 "title": "ナイト・オブ・ナイツ",
                 "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=liq91ddlPQ16iooqDDQ86qlodIO10Qb1",
-                "status": "ex"
+                "status": "clear"
             },
 
             {
@@ -836,6 +871,13 @@
                 "title": "海神",
                 "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=P0IoP69l6q08q8DoPD1Q8bqq099Pi1iP",
                 "status": "fc"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "ALPACORE",
+                "img": "",
+                "status": "gfc"
             },
 
             {
@@ -919,7 +961,7 @@
                 "difficulty": "esp",
                 "title": "Cosy Catastrophe",
                 "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=9QIo1lbD1ldlqPO0iD68io69Pd8b01Do",
-                "status": "clear"
+                "status": "fc"
             },
 
             {
@@ -961,6 +1003,13 @@
                 "difficulty": "esp",
                 "title": "GAIA",
                 "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=idIibqoooOlQ1DId8lOidd6il0bdoql8",
+                "status": "fc"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "Golden Arrow",
+                "img": "",
                 "status": "fc"
             },
 
@@ -1025,6 +1074,13 @@
                 "title": "KHAMEN BREAK",
                 "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=Qq8bbbqO6qQ1DPODd16oi1QDQoQ9b8DO",
                 "status": "gfc"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "Last Twilight",
+                "img": "",
+                "status": "fc"
             },
 
             {
@@ -1113,6 +1169,13 @@
 
             {
                 "difficulty": "esp",
+                "title": "PANIC HOLIC",
+                "img": "",
+                "status": "fc"
+            },
+
+            {
+                "difficulty": "esp",
                 "title": "PARANOiA 〜HADES〜",
                 "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=io1d1Dq80Di08O1Pb9bQ8DoP9d9Ooi90",
                 "status": "noplay"
@@ -1171,14 +1234,21 @@
                 "difficulty": "csp",
                 "title": "PRANA",
                 "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=P0iOob80dDPqI8oIqq1dOiDd9qilQqDl",
-                "status": "ex"
+                "status": "clear"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "Rampage Hero",
+                "img": "",
+                "status": "noplay"
             },
 
             {
                 "difficulty": "csp",
                 "title": "REVOLUTIONARY ADDICT",
                 "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=O0Id19qQlDibiDdIP90o81bOo16qbQ0o",
-                "status": "clear"
+                "status": "fc"
             },
 
             {
@@ -1242,6 +1312,13 @@
                 "title": "SWEET HOME PARTY",
                 "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=obd0PDIDq8qqd9q9qdbDdqD98bd61I8D",
                 "status": "fc"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "The World Ends Now",
+                "img": "",
+                "status": "noplay"
             },
 
             {
@@ -1332,7 +1409,7 @@
                 "difficulty": "esp",
                 "title": "VANESSA",
                 "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=6d6bqoOlqi8ooqOdlqdPblqol88b68QP",
-                "status": "clear"
+                "status": "fc"
             },
 
             {
@@ -1573,6 +1650,13 @@
 
             {
                 "difficulty": "esp",
+                "title": "City Never Sleeps",
+                "img": "",
+                "status": "fc"
+            },
+
+            {
+                "difficulty": "esp",
                 "title": "Cleopatrysm",
                 "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=d91lIllbboPd668QP88I06Q6QqooQiO1",
                 "status": "fc"
@@ -1597,6 +1681,13 @@
                 "title": "CRAZY&hearts;LOVE",
                 "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=i0dqDPqDll9il0b6qoDPd19OQ0qO9qDO",
                 "status": "gfc"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "CyberConnect",
+                "img": "",
+                "status": "noplay"
             },
 
             {
@@ -1652,7 +1743,7 @@
                 "difficulty": "esp",
                 "title": "Engraved Mark",
                 "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=lb19I8d0DPb88QDQlP616lDqoboli90O",
-                "status": "ex"
+                "status": "clear"
             },
 
             {
@@ -1667,6 +1758,13 @@
                 "title": "FLOWER",
                 "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=q08PbOPPbPobob0OII096bP9iil9908D",
                 "status": "gfc"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "Give Me",
+                "img": "",
+                "status": "noplay"
             },
 
             {
@@ -1748,6 +1846,13 @@
 
             {
                 "difficulty": "esp",
+                "title": "Last Card",
+                "img": "",
+                "status": "fc"
+            },
+
+            {
+                "difficulty": "esp",
                 "title": "Magnetic",
                 "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=18l0blb188Oqqi8I68o8oq91Qbq86QDi",
                 "status": "fc"
@@ -1820,7 +1925,7 @@
                 "difficulty": "esp",
                 "title": "Our Love",
                 "img": "",
-                "status": "fc"
+                "status": "gfc"
             },
 
             {
@@ -1988,7 +2093,7 @@
                 "difficulty": "esp",
                 "title": "Spanish Snowy Dance",
                 "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=bo6PqbbPQ6D096OIP6dDPbPPiDi88609",
-                "status": "ex"
+                "status": "clear"
             },
 
             {
