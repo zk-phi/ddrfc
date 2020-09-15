@@ -7,6 +7,7 @@ body {
   color: var(--fg);
   background-color: var(--bg);
   font-family: 'Play', sans-serif;
+  margin: 16px;
 }
 
 nav {
@@ -20,9 +21,8 @@ nav {
 
 section {
   cursor: pointer;
-  margin: 0px 16px 32px;
+  margin-bottom: 32px;
   padding: 20px;
-  background-color: var(--bg);
   border-radius: 16px;
   box-shadow: inset 5px 5px 10px #101018, inset -5px -5px 10px #303048;
 }
