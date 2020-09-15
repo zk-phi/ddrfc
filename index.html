@@ -24,6 +24,11 @@
         {{ error }}
       </section>
 
+      <select v-model="sort">
+        <option value="status">Order by: Status</option>
+        <option value="title">Order by: Title</option>
+      </select>
+
       <section v-for="level in levels"
                :class="{ collapse: selected != level.level }"
                @click="select(level.level)">

@@ -17,6 +17,22 @@ nav {
   box-shadow: 5px 5px 10px #101018;
 }
 
+/* ---- input */
+
+select {
+  width: 100%;
+  display: block;
+  margin-bottom: 32px;
+  padding: 20px;
+  border-radius: 16px;
+  box-shadow: 5px 5px 10px #101018, -5px -5px 10px #303048;
+  color: var(--fg);
+}
+
+select:active {
+  box-shadow: inset 5px 5px 10px #101018, inset -5px -5px 10px #303048;
+}
+
 /* ---- section */
 
 section {
