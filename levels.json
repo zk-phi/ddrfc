@@ -1540,7 +1540,7 @@
                 "difficulty": "esp",
                 "title": "ホーンテッド★メイドランチ",
                 "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=I0qiD6Ob86D1oQOib81lID6Dll8iOOOP",
-                "status": "gfc"
+                "status": "pfc"
             },
 
             {
@@ -1743,7 +1743,7 @@
                 "difficulty": "esp",
                 "title": "Engraved Mark",
                 "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=lb19I8d0DPb88QDQlP616lDqoboli90O",
-                "status": "clear"
+                "status": "fc"
             },
 
             {
@@ -1764,13 +1764,20 @@
                 "difficulty": "esp",
                 "title": "Give Me",
                 "img": "",
-                "status": "noplay"
+                "status": "fc"
             },
 
             {
                 "difficulty": "esp",
                 "title": "Go For The Top",
                 "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=11dQb0qIdbO098ObDqOQQ8Ili9Il0lOd",
+                "status": "fc"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "HARD BRAIN",
+                "img": "",
                 "status": "fc"
             },
 
