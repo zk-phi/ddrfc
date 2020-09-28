@@ -135,8 +135,8 @@ section.collapse > .cardcase {
   }
 }
 
-.noplay img {
-  opacity: 0.2;
+.noplay img, .noplay:after {
+  opacity: 0.1;
 }
 
 .noplay {
