@@ -498,6 +498,13 @@
 
             {
                 "difficulty": "esp",
+                "title": "DEADLOCK -Out Of Reach-",
+                "img": "",
+                "status": "fc"
+            },
+
+            {
+                "difficulty": "esp",
                 "title": "&Delta;MAX",
                 "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=QQldo10ObPPQPlliODiDIIl0Q1oPoo61",
                 "status": "clear"
@@ -807,7 +814,7 @@
                 "difficulty": "csp",
                 "title": "ナイト・オブ・ナイツ",
                 "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=liq91ddlPQ16iooqDDQ86qlodIO10Qb1",
-                "status": "clear"
+                "status": "gfc"
             },
 
             {
@@ -1122,7 +1129,7 @@
                 "difficulty": "csp",
                 "title": "Monkey Business",
                 "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=bD1DbibPIq9IIlQd0OIIl0o91QI1il69",
-                "status": "clear"
+                "status": "fc"
             },
 
             {
@@ -1185,7 +1192,7 @@
                 "difficulty": "esp",
                 "title": "PARANOiA-Respect-",
                 "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=IP00ID9bdlOoP9o9lo1qlO0D1Pdo9I8l",
-                "status": "clear"
+                "status": "gfc"
             },
 
             {
@@ -1234,7 +1241,7 @@
                 "difficulty": "csp",
                 "title": "PRANA",
                 "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=P0iOob80dDPqI8oIqq1dOiDd9qilQqDl",
-                "status": "clear"
+                "status": "fc"
             },
 
             {
@@ -1283,7 +1290,7 @@
                 "difficulty": "csp",
                 "title": "snow prism",
                 "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=OQbdD9iD898Q01oIddDliq8q9D1QlQ1I",
-                "status": "clear"
+                "status": "fc"
             },
 
             {
@@ -1573,6 +1580,13 @@
 
             {
                 "difficulty": "esp",
+                "title": "狂水一華",
+                "img": "",
+                "status": "gfc"
+            },
+
+            {
+                "difficulty": "esp",
                 "title": "ACE FOR ACES",
                 "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=ld6P1lbb0bPO9doqbbPOoPb8qoDo8id0",
                 "status": "gfc"
@@ -1832,8 +1846,22 @@
 
             {
                 "difficulty": "esp",
+                "title": "Inner Spirit -GIGA HITECH MIX-",
+                "img": "",
+                "status": "gfc"
+            },
+
+            {
+                "difficulty": "esp",
                 "title": "I Want To Do This Keep",
                 "img": "https://p.eagate.573.jp//game/ddr/ddra20/p/images/binary_jk.html?img=dIbPlPdo09i8oOlOQ1OOq166Q8iP8Oqi",
+                "status": "gfc"
+            },
+
+            {
+                "difficulty": "esp",
+                "title": "Jetcoaster Windy",
+                "img": "",
                 "status": "gfc"
             },
 
