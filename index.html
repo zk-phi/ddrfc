@@ -60,8 +60,12 @@
                :style="{ width: summaries[level.level].noplay + '%' }"></div>
         </div>
         <div class="cardcase">
-          <div v-for="chart in level.charts" :class="['card', chart.difficulty, chart.status]">
-            <img :alt="chart.title" :src="chart.img">
+          <div v-for="chart in level.charts"
+               :class="['card', chart.difficulty, chart.status]"
+               :style="{ backgroundImage: `url(${chart.img})` }">
+            <div class="title">
+              {{ chart.title }}
+            </div>
           </div>
         </div>
       </section>
