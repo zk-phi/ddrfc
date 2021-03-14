@@ -119,22 +119,22 @@ section.collapse > .cardcase {
 
 .fc {
   border-color: #aff;
-  box-shadow: 0px 0px 6px 3px #3bb, 0px 0px 6px 3px #3bb inset;
+  box-shadow: 0px 0px 9px 3px #3bb, 0px 0px 9px 3px #3bb inset;
 }
 
 .gfc {
   border-color: #afa;
-  box-shadow: 0px 0px 6px 3px #3b3, 0px 0px 6px 3px #3b3 inset;
+  box-shadow: 0px 0px 9px 3px #3b3, 0px 0px 9px 3px #3b3 inset;
 }
 
 .pfc {
   border-color: #ffa;
-  box-shadow: 0px 0px 6px 3px #bb3, 0px 0px 6px 3px #bb3 inset;
+  box-shadow: 0px 0px 9px 6px #bb3, 0px 0px 9px 6px #bb3 inset;
 }
 
 .mfc {
   border-color: #fff;
-  box-shadow: 0px 0px 6px 3px #bbb, 0px 0px 6px 3px #bbb inset;
+  box-shadow: 0px 0px 9px 6px #bbb, 0px 0px 9px 6px #bbb inset;
 }
 
 .card:after {
