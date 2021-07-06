@@ -17,6 +17,17 @@ nav {
   box-shadow: 5px 5px 10px #101018;
 }
 
+/* ---- link */
+
+a {
+    color: var(--fg);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 /* ---- input */
 
 select {
