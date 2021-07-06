@@ -29,18 +29,19 @@ function getjson (url, cb) {
     xhr.send(null);
 }
 
-function getsheet (id, cb) {
-    var url = "https://spreadsheets.google.com/feeds/list/" + id + "/1/public/values?alt=json";
+function gettsv (url, cb) {
     var xhr   = new XMLHttpRequest();
     xhr.onload = function () {
-        var rawjson = JSON.parse(xhr.responseText);
+        var lines = xhr.responseText.split("\r\n");
+        lines.shift();
         var charts = { 19: [], 18: [], 17: [], 16: [], 15: [] };
-        rawjson.feed.entry.forEach(function (row) {
-            charts[row.gsx$level.$t].push({
-                difficulty: row.gsx$difficulty.$t,
-                title: row.gsx$title.$t,
-                img: row.gsx$img.$t,
-                status: row.gsx$status.$t,
+        lines.forEach(function (line) {
+            var cols = line.split("\t");
+            charts[cols[0]].push({
+                difficulty: cols[2],
+                title: cols[1],
+                img: cols[3],
+                status: cols[4],
             });
         });
         cb([
@@ -65,15 +66,15 @@ const vm = new Vue({
         error: null
     },
     mounted: function () {
-        var match = location.href.match(/\?(json=(.+)|sheet=(.+))$/);
+        var match = location.href.match(/\?(json=(.+)|tsv=(.+))$/);
         if (!match) {
-            getsheet("1uQYRVIXD0h8v4yvHazJt3clfpJoeznboQkqrTZEFbcA", function (json) { vm.levels = sortByClear(json) });
+            gettsv("https://docs.google.com/spreadsheets/d/e/2PACX-1vSxPyISUZcPexLFLPZ93L6snV2P5oqdIn-dLpqUCuwwUiGmO8ewipUqoSxBs_EDFUhcba4DHSAd1xJR/pub?output=tsv", function (json) { vm.levels = sortByClear(json) });
         }
         else if (match[2]) {
             getjson(match[2], function (json) { vm.levels = sortByClear(json) })
         }
         else if (match[3]) {
-            getsheet(match[3], function (json) { vm.levels = sortByClear(json) })
+            gettsv(match[3], function (json) { vm.levels = sortByClear(json) })
         }
     },
     computed: {
