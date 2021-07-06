@@ -13,3 +13,7 @@ https://zk-phi.github.io/ddrfc/?tsv=<コピーしたurl>
 ```
 
 にアクセスすると良い感じに表示されます。
+
+例：
+
+http://zk-phi.github.io/ddrfc/?tsv=https://docs.google.com/spreadsheets/d/e/2PACX-1vSxPyISUZcPexLFLPZ93L6snV2P5oqdIn-dLpqUCuwwUiGmO8ewipUqoSxBs_EDFUhcba4DHSAd1xJR/pub?output=tsv
