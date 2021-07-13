@@ -20,14 +20,18 @@
         <h1><a target="_blank" href="https://github.com/zk-phi/ddrfc">DDR Clear List</a></h1>
       </nav>
 
-      <section v-if="error">
-        {{ error }}
-      </section>
-
       <select v-model="sort">
         <option value="status">Order by: Status</option>
         <option value="title">Order by: Title</option>
       </select>
+
+      <section v-if="error">
+        {{ error }}
+      </section>
+
+      <section v-else-if="loading">
+        Loading...
+      </section>
 
       <section v-for="level in levels"
                :class="{ collapse: selected != level.level }"

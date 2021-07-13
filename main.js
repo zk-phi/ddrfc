@@ -63,18 +63,29 @@ const vm = new Vue({
         sort: "status",
         selected: null,
         levels: [],
-        error: null
+        error: null,
+        loading: true,
     },
     mounted: function () {
         var match = location.href.match(/\?(json=(.+)|tsv=(.+))$/);
         if (!match) {
-            gettsv("https://docs.google.com/spreadsheets/d/e/2PACX-1vSxPyISUZcPexLFLPZ93L6snV2P5oqdIn-dLpqUCuwwUiGmO8ewipUqoSxBs_EDFUhcba4DHSAd1xJR/pub?output=tsv", function (json) { vm.levels = sortByClear(json) });
+            const url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSxPyISUZcPexLFLPZ93L6snV2P5oqdIn-dLpqUCuwwUiGmO8ewipUqoSxBs_EDFUhcba4DHSAd1xJR/pub?output=tsv";
+            gettsv(url, function (json) {
+                vm.levels = sortByClear(json);
+                vm.loading = false;
+            });
         }
         else if (match[2]) {
-            getjson(match[2], function (json) { vm.levels = sortByClear(json) })
+            getjson(match[2], function (json) {
+                vm.levels = sortByClear(json);
+                vm.loading = false;
+            });
         }
         else if (match[3]) {
-            gettsv(match[3], function (json) { vm.levels = sortByClear(json) })
+            gettsv(match[3], function (json) {
+                vm.levels = sortByClear(json);
+                vm.loading = false;
+            });
         }
     },
     computed: {
