@@ -125,7 +125,7 @@ section.collapse > .cardcase {
 
 .ex {
   border-color: #f77;
-  box-shadow: 0px 0px 1px 1px #b33, 0px 0px 1px 1px #b33 inset;
+  box-shadow: 0px 0px 4px 2px #b33, 0px 0px 4px 2px #b33 inset;
 }
 
 .fc {

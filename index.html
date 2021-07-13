@@ -36,7 +36,13 @@
       <section v-for="level in levels"
                :class="{ collapse: selected != level.level }"
                @click="select(level.level)">
-        <h2>Level {{ level.level }}</h2>
+        <h2>
+          Level {{ level.level }}
+          <small>
+            (PFC {{ Math.floor(summaries[level.level].mfc + summaries[level.level].pfc) }} %,
+            FC {{ Math.floor(summaries[level.level].mfc + summaries[level.level].pfc + summaries[level.level].gfc + summaries[level.level].fc) }} %)
+          </small>
+        </h2>
         <div class="barchart">
           <div v-if="summaries[level.level].mfc"
                class="mfc"
